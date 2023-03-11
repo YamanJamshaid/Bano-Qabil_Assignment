@@ -1,0 +1,97 @@
+@charset "utf-8";
+/* CSS Document */
+
+.field{
+	padding: 0 0px 0px 20px;
+	width: 1000px;
+	height: 700px;
+	position:absolute;
+	}
+.heading1{
+	position: absolute;
+	top: 30px;
+	width: 200px;
+    height: 15px;
+    border: 1.5px solid #665544;
+	padding: 0 0px 50px 50px;}
+	
+.heading2{
+	 position:absolute;
+	 left: 290px;
+	 top: 30px;
+	 border: 1.5px solid black;
+	 width: 200px;
+	 height: 15px;
+	 padding: 0 0px 50px 50px;
+	 }
+	 
+.heading3{
+	 position:absolute;
+	 left: 560px;
+	 top: 30px;
+	 border: 1.5px solid black;
+	 width: 200px;
+	 height: 15px;
+	 padding: 0 0px 50px 50px;
+	 }	 
+
+.list3 {
+	position:absolute;
+	top: 130px;
+	left: 560px;
+	border: 1px solid black;
+	height: 150px;
+	width: 200px;
+	padding: 0 0px 50px 50px;}
+	 
+.list2 {
+	position:absolute;
+	top: 130px;
+	left: 290px;
+	border: 1px solid black;
+	height: 150px;
+	width: 200px;
+	padding: 0 0px 50px 50px;}	 
+	
+.list1 {
+	position:absolute;
+	top: 130px;
+	left: 18px;
+	border: 1px solid black;
+	height: 150px;
+	width: 200px;
+	padding: 0 0px 50px 50px;}
+	
+.pera {
+	position:absolute;
+	left: 10px;
+	top: 15px;}
+	
+.pera-del {
+	position:absolute;
+	left: 15px;
+	top: 70px;}	
+	
+.l1 {
+	position:absolute;
+	top: 80px;
+	left: 70px;
+	}
+	
+.l2 {
+	position:absolute;
+	top: 110px;
+	left: 70px;}
+	
+.l3 {
+	position:absolute;
+	top: 140px;
+	left: 70px;}
+
+.form1 {
+	position:absolute;
+	top: 350px;
+	left: 16px;
+	border: 1px solid black;
+	width: 200px;
+	padding: 0 0px 50px 50px;}			
