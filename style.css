@@ -1,0 +1,104 @@
+@charset "utf-8";
+/* CSS Document */
+
+.field-1 {
+	   margin-top: 10px;
+	   height: 290px;
+	   	}
+
+
+.head {
+	widht: 200px;
+	left: 50px;}
+	
+.head h2 {
+	margin-left: 570px;
+}
+
+.img-1 img {
+	position: relative;
+	width: 270px;
+	height: 200px;
+	left: 50px;
+	bottom: 170px;
+}
+
+.pera p {
+	margin-left: 450px;
+	margin-top: 100px;
+	font-size: 40px;
+}
+
+.heads{
+	border: 1px solid black;
+	width: 400px;
+	height: 150px;
+	display: inline-block;
+	margin-inline: 25px;
+	margin-bottom: 12px;
+}
+
+.heads h2 {
+	margin-left: 150px;
+}
+
+.heads p {
+	margin-left: 105px;
+	font-size: 20px;
+}
+
+.field-2 {
+	margin-top: 10px;
+}
+
+.field-3 {
+	margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
